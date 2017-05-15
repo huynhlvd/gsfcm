@@ -23,6 +23,6 @@ All rights reserved.
 
 Please cite this publication
 
-    PUBLICATION: Huynh Van Luong, N. Deligiannis, J. Seiler, S. Forchhammer, and A. Kaup, 
-            "Incorporating Prior Information in Compressive Online Robust Principal Component Analysis," 
-             in e-print, arXiv, Jan. 2017.
+    PUBLICATION: Huynh Van Luong and Jong Myon Kim, 
+        "A Generalized Spatial Fuzzy C-Means Algorithm for Medical Image Segmentation," 
+        in IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2009), Jeju, Korea, Aug. 2009.
