@@ -1,4 +1,4 @@
-A generalized spatial fuzzy c-means algorithm (GSFCM)
+A Generalized Spatial Fuzzy C-Means Algorithm (GSFCM).
 
 Copyright (c) 2009, Huynh Van Luong, version 1.1, Jan. 24, 2009.<br />
 Embedded System Lab, University of Ulsan, Korea <br />
