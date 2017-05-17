@@ -5,7 +5,7 @@ A Generalized Spatial Fuzzy C-Means Algorithm (GSFCM).
     Implementations by Huynh Van Luong, Email: huynhlvd@gamil.com,
     Embedded System Lab, University of Ulsan, Korea
     
-    Please see the file LICENSE for the full text of the license.
+   Please see the file [LICENSE](https://github.com/huynhlvd/gsfcm/blob/master/LICENSE.md) for the full text of the license.
 
 Please cite this publication
 
