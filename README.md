@@ -1,5 +1,5 @@
 # gsfcm
-A Generalized Spatial Fuzzy C-Means Algorithm (GSFCM).
+**A Generalized Spatial Fuzzy C-Means Clustering Algorithm (GSFCM)
 
     Version 1.1,  Jan. 24, 2009
     Implementations by Huynh Van Luong, Email: huynhlvd@gamil.com,
