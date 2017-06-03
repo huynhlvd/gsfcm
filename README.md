@@ -9,8 +9,6 @@
 
 Please cite this publication
 
-    PUBLICATION: Huynh Van Luong and Jong Myon Kim, 
-        "A Generalized Spatial Fuzzy C-Means Algorithm for Medical Image Segmentation," 
-        in IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2009), Jeju, Korea, Aug. 2009.
+Huynh Van Luong and Jong Myon Kim, "[A Generalized Spatial Fuzzy C-Means Algorithm for Medical Image Segmentation](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5276878)," in IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2009), Jeju, Korea, Aug. 2009.
              
 **_Solving the problem_**
