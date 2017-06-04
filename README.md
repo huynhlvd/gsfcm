@@ -2,7 +2,7 @@
 **A Generalized Spatial Fuzzy C-Means Clustering Algorithm (GSFCM)**
 
     Version 1.1,  Jan. 24, 2009
-    Implementations by Huynh Van Luong, Email: huynhlvd@gamil.com,
+    Implementations by Huynh Van Luong, Email: huynhlvd@gmail.com,
     Embedded System Lab, University of Ulsan, Korea
     
    `Please see the file` [LICENSE](https://github.com/huynhlvd/gsfcm/blob/master/LICENSE.md) `for the full text of the license.`
