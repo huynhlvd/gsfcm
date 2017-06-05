@@ -15,4 +15,4 @@ Please cite this publication:
 
 <img src="https://latex.codecogs.com/svg.latex?J_{m}(U,&space;V)=\sum_{i=1}^{c}\sum_{k=1}^{n}u_{ik}^{m}d^{2}(x_{k},v_{i}),&space;" title="J_{m}(U, V)=\sum_{i=1}^{c}\sum_{k=1}^{n}u_{ik}^{m}d^{2}(x_{k},v_{i}), " />
 
-where <img src="https://latex.codecogs.com/svg.latex?d(x_{k},v_{i})" title="d(x_{k},v_{i})" /> represents the distance between the pixel x_k and centroid vi, along with constraint ∑ci=1uik=1, and the degree of fuzzification m ≥ 1.
+where <img src="https://latex.codecogs.com/svg.latex?d(x_{k},v_{i})" title="d(x_{k},v_{i})" /> represents the distance between the pixel <img src="https://latex.codecogs.com/svg.latex?x_{k}" title="x_{k}" /> and centroid <img src="https://latex.codecogs.com/svg.latex?v_{i}" title="v_{i}" />, along with constraint <img src="https://latex.codecogs.com/svg.latex?\sum_{i=1}^{c}u_{ik}=1" title="\sum_{i=1}^{c}u_{ik}=1" />, and the degree of fuzzification _m ≥ 1_.
