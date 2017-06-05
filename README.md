@@ -13,4 +13,4 @@ Please cite this publication:
              
 **_Solving the problem_**
 
-<img src="https://latex.codecogs.com/svg.latex?J_{m}(U,&space;V)=\sum_{i=1}^{c}\sum_{k=1}^{n}u_{ik}^{m}d^{2}(x_{k},v_{i})&space;\eqno{\hbox{(1)}}" title="J_{m}(U, V)=\sum_{i=1}^{c}\sum_{k=1}^{n}u_{ik}^{m}d^{2}(x_{k},v_{i}) \eqno{\hbox{(1)}}" />
+<img src="https://latex.codecogs.com/svg.latex?J_{m}(U,&space;V)=\sum_{i=1}^{c}\sum_{k=1}^{n}u_{ik}^{m}d^{2}(x_{k},v_{i})&space;\eqno{\hbox{(1)}}" title="J_{m}(U, V)=\sum_{i=1}^{c}\sum_{k=1}^{n}u_{ik}^{m}d^{2}(x_{k},v_{i}) " />
