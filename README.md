@@ -14,3 +14,5 @@ Please cite this publication:
 **_Solving the problem_**
 
 <img src="https://latex.codecogs.com/svg.latex?J_{m}(U,&space;V)=\sum_{i=1}^{c}\sum_{k=1}^{n}u_{ik}^{m}d^{2}(x_{k},v_{i})&space;" title="J_{m}(U, V)=\sum_{i=1}^{c}\sum_{k=1}^{n}u_{ik}^{m}d^{2}(x_{k},v_{i}) " />
+
+where d(xk,vi) represents the distance between the pixel xk and centroid vi, along with constraint ∑ci=1uik=1, and the degree of fuzzification m≥1.
