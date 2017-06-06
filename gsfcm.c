@@ -110,7 +110,7 @@ int main (int argc, char **argv)
     exit(-1);
   }
   /* parse the command line arguments */
- /***** Usage: fccm in_image number_of_segments termination_threshold******/
+ /***** Usage: gsfcm in_image number_of_segments termination_threshold******/
   for (i = 0; i < argc; i++)
     if (!strcmp(argv[i], "-help")) {
       printf("\tfccm in_image number_of_segments termination_threshold\n");
