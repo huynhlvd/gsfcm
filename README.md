@@ -16,7 +16,7 @@ Please cite this publication:
 <img src="https://latex.codecogs.com/svg.latex?\small&space;J_{m}(U,&space;V)=\sum_{i=1}^{c}\sum_{k=1}^{n}u_{ik}^{m}d^{2}(x_{k},v_{i})," title="\small J_{m}(U, V)=\sum_{i=1}^{c}\sum_{k=1}^{n}u_{ik}^{m}d^{2}(x_{k},v_{i})," />
 
 where
-- <img src="https://latex.codecogs.com/svg.latex?d(x_{k},v_{i})" title="d(x_{k},v_{i})" />: The distance between the pixel <img src="https://latex.codecogs.com/svg.latex?x_{k}" title="x_{k}" /> and centroid <img src="https://latex.codecogs.com/svg.latex?v_{i}" title="v_{i}" />, 
+- <img src="https://latex.codecogs.com/svg.latex?\small&space;d(x_{k},v_{i})" title="\small d(x_{k},v_{i})" />: The distance between the pixel <img src="https://latex.codecogs.com/svg.latex?x_{k}" title="x_{k}" /> and centroid <img src="https://latex.codecogs.com/svg.latex?v_{i}" title="v_{i}" />, 
 - <img src="https://latex.codecogs.com/svg.latex?\sum_{i=1}^{c}u_{ik}=1" title="\sum_{i=1}^{c}u_{ik}=1" />: The constraint and the degree of fuzzification _m ≥ 1_.
 
 **_Source code files:_** 
