@@ -17,7 +17,7 @@ Please cite this publication:
 
 where
 - <img src="https://latex.codecogs.com/svg.latex?\small&space;d(x_{k},v_{i})" title="\small d(x_{k},v_{i})" />: The distance between the pixel <img src="https://latex.codecogs.com/svg.latex?x_{k}" title="x_{k}" /> and centroid <img src="https://latex.codecogs.com/svg.latex?v_{i}" title="v_{i}" />, 
-- <img src="https://latex.codecogs.com/svg.latex?\sum_{i=1}^{c}u_{ik}=1" title="\sum_{i=1}^{c}u_{ik}=1" />: The constraint and the degree of fuzzification _m ≥ 1_.
+- <img src="https://latex.codecogs.com/svg.latex?\small&space;\sum_{i=1}^{c}u_{ik}=1" title="\small \sum_{i=1}^{c}u_{ik}=1" />: The constraint and the degree of fuzzification _m ≥ 1_.
 
 **_Source code files:_** 
 - [gsfcm.c](https://github.com/huynhlvd/gsfcm/blob/master/gsfcm.c): The function for GSFCM
